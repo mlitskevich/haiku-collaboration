@@ -1,2 +1,2 @@
 # haiku-collaboration
-Collaboration test
+This is a short test
